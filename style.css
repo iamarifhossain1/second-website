@@ -19,7 +19,7 @@ body{
 
 section{
 
-    height: 700px;
+    height: 900px;
 }
 
 .half-width{
@@ -94,7 +94,7 @@ section{
 
 .work{
 
-    color: orangered;
+    color: black;
 }
 
 .exp{
@@ -103,13 +103,22 @@ section{
     background-repeat: no-repeat;
 }
 
-.latest{
+.latest-work{
 
-    width: 30%;
+    width: 25%;
     float: left;
+    margin: 3.5%;
+    box-shadow: 10px 10px 40px silver;
+    padding: 0.50%;
+    background-color: #fff;
+    border-radius: 5px;
+    
+   
+    
+    
 }
 
-.latest img{
+.latest-work img{
 
     width: 100%;
 }
