@@ -1,0 +1,115 @@
+body{
+
+    font-size: 25px;
+    margin: 0px;
+}
+
+.poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+.top-sec{
+
+    background-image: url("img/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+section{
+
+    height: 700px;
+}
+
+.half-width{
+
+    width: 30%;
+    margin: 4%;
+    padding: 2%;
+    float: left;
+
+}
+
+.half-width img{
+
+    width: 100%;
+}
+
+.name-highlight{
+
+    color: hotpink;
+
+  }
+
+
+.hire{
+
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: hotpink;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.hire:hover{
+
+    text-decoration: none;
+    padding: 12px 22px;
+    background-color: hotpink;
+    border-radius: 5px;
+    color: #fff;
+}
+
+
+.bio{
+
+    background-image: url("img/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+.bio-highlight{
+
+    color: hotpink;
+}
+
+
+.contact{
+
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: hotpink;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.contact:hover{
+
+    text-decoration: none;
+    padding: 12px 22px;
+    background-color: hotpink;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.work{
+
+    color: orangered;
+}
+
+.exp{
+
+    background-image: url("img/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.latest{
+
+    width: 30%;
+    float: left;
+}
+
+.latest img{
+
+    width: 100%;
+}
